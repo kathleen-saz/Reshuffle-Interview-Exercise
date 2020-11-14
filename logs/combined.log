@@ -1,0 +1,11 @@
+{"message":"Initializing Reshuffle","level":"info","timestamp":"2020-11-14T08:18:45.810Z"}
+{"message":"Registering event HTTP/GET/test/FfWlGqWrLdeYSwIbMXCJs","level":"info","timestamp":"2020-11-14T08:18:45.813Z"}
+{"message":"Initializing Reshuffle","level":"info","timestamp":"2020-11-14T08:19:05.565Z"}
+{"message":"Registering event HTTP/GET/test/lHGvnBMhSCcgxl0E3G05i","level":"info","timestamp":"2020-11-14T08:19:05.568Z"}
+{"message":"Initializing Reshuffle","level":"info","timestamp":"2020-11-14T08:30:00.489Z"}
+{"message":"Registering event HTTP/GET/test/IQwrbJaHpFZwBKFeZbPIj","level":"info","timestamp":"2020-11-14T08:30:00.494Z"}
+{"message":"Initializing Reshuffle","level":"info","timestamp":"2020-11-14T08:31:59.446Z"}
+{"message":"Registering event HTTP/GET/test/RYWgRgWRyYdXzJ-zpIvDh","level":"info","timestamp":"2020-11-14T08:31:59.461Z"}
+{"message":"Web server listening on port 8000","level":"info","timestamp":"2020-11-14T08:31:59.491Z"}
+{"message":"Handling event","level":"info","timestamp":"2020-11-14T08:32:03.145Z"}
+{"message":"No handler registered for GET /favicon.ico","level":"info","timestamp":"2020-11-14T08:32:04.481Z"}
