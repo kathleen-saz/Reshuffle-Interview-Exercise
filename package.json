@@ -14,5 +14,10 @@
   "license": "ISC",
   "dependencies": {
     "reshuffle": "^1.0.3"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "reshuffle-nlp-connector": "0.0.5",
+    "reshuffle-twitter-connector": "0.0.1"
   }
 }

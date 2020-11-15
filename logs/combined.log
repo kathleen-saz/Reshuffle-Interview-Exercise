@@ -9,3 +9,4 @@
 {"message":"Web server listening on port 8000","level":"info","timestamp":"2020-11-14T08:31:59.491Z"}
 {"message":"Handling event","level":"info","timestamp":"2020-11-14T08:32:03.145Z"}
 {"message":"No handler registered for GET /favicon.ico","level":"info","timestamp":"2020-11-14T08:32:04.481Z"}
+{"message":"Initializing Reshuffle","level":"info","timestamp":"2020-11-15T00:26:19.955Z"}
